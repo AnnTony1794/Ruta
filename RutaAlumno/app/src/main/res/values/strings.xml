@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recorrido UTE</string>
+    <string name="title_activity_maps">Recorrido UTE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="creador">Creado por: Juan Antonio Facundo Flores</string>
+    <string name="todos_los_derechos_reservados">Todos los derechos reservados.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Expreso Tec, Campus Monterrey</name>
+	<description><![CDATA[Horarios, Rutas y Paradas<br>AGO-DIC 2017<br>http://movilidad.mty.itesm.mx<br>Mayor información: (81) 8358-2000 ext 3668 y 3682, movilidad.mty@itesm.mx y expresotec.mty@itesm.mx]]></description>
+	<NetworkLink>
+		<name>Expreso Tec, Campus Monterrey</name>
+		<Link>
+			<href>http://www.google.com/maps/d/u/0/kml?forcekml=1&amp;mid=1VtJy1cgNbGwRI99PGpY95uCvsMU</href>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
